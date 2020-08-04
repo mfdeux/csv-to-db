@@ -1,0 +1,14 @@
+[names]
+dog = "bob"
+
+[exclude]
+files = ["bob"]
+columns = ["small"]
+
+[columns]
+dog = ["tom", "dick", "harry"]
+
+[foreign_keys]
+
+
+[views]
